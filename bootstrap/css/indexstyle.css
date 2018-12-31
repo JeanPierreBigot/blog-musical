@@ -1,0 +1,74 @@
+/*COLOR DE FONDO*/
+body
+{
+background-color:rgb(214,234,248) ;
+}
+/*BANER PRINCIPAL*/
+.barraprincipal
+{
+background-color:rgb(52,73,95);
+margin:20px 20px 20px 20px;
+text-align:center;
+}
+/*TAMAÑO DE LA IMAGEN*/
+.logoblog
+{
+width:200px;
+
+}
+/*FORMATO DE TEXTO*/
+.slogan
+{
+text-align:rigth ;
+font-family:fantasy;
+font-size:40px;
+color:white;
+}
+/*FORMATO DE LOS BOTONES*/
+.lf
+{
+width:50px;
+}
+.lg
+{
+width:50px;
+}
+.llk
+{
+width:50px;
+}
+.lf
+{
+width:50px;
+}
+.ltmb
+{
+width:50px;
+}
+.ltw
+{
+width:50px;
+}
+/*FORMATO DE EL SEGUNDO BANER*/
+.barranav
+{
+  background-color:rgb(52,73,95);
+  margin:20px 20px 20px 20px;
+  text-align:center;
+}
+/*FORMATO DE TEXTO DE LAS COLUMNAS*/
+.columna1
+{
+background-color:rgb(52,73,95);
+width:40%;
+margin-right:20px;
+margin-left:40px;
+
+}
+.columna2
+{
+  width:40%;
+background-color:rgb(52,73,95);
+margin-left:20px;
+margin-rigth:10px;
+}
